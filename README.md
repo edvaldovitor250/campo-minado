@@ -1,8 +1,11 @@
-# Campo Minado em Java - Projeto Atualizado
+# Campo Minado em Java 🕹️
 
-Olá a todos,
 
-Gostaria de compartilhar com vocês um projeto que desenvolvi em Java, que consiste em uma versão do jogo Campo Minado.
+## Índice
+1. [Sobre o Projeto](#sobre-o-projeto)
+2. [Tecnologias e Conceitos Utilizados](#tecnologias-e-conceitos-utilizados)
+3. [Boas Práticas](#boas-práticas)
+4. [Experiência Enriquecedora](#experiência-enriquecedora)
 
 ## Sobre o Projeto
 
@@ -10,20 +13,13 @@ O objetivo do jogo é encontrar todas as minas em um campo de minas, sem detonar
 
 ## Tecnologias e Conceitos Utilizados
 
-Para o desenvolvimento do projeto, utilizei conceitos fundamentais de programação orientada a objetos em Java, como herança, encapsulamento, polimorfismo e interfaces. Também empreguei estruturas de dados como matrizes e listas encadeadas para representar o tabuleiro e as células do jogo.
+Durante o desenvolvimento do projeto, foram aplicados conceitos fundamentais de programação orientada a objetos em Java, tais como herança, encapsulamento, polimorfismo e interfaces. Também utilizei estruturas de dados como matrizes e listas encadeadas para representar o tabuleiro e as células do jogo.
 
 ## Boas Práticas
 
-Adotei boas práticas de desenvolvimento de software, incluindo o uso de testes unitários e a documentação adequada do código. Isso garantiu a qualidade e a manutenibilidade do projeto.
+Adotei boas práticas de desenvolvimento de software, incluindo o uso de testes unitários e a documentação adequada do código. Essas práticas asseguraram a qualidade e a manutenibilidade do projeto.
 
 ## Experiência Enriquecedora
 
-Este projeto foi uma experiência muito enriquecedora, que me permitiu aprimorar minhas habilidades em Java e em desenvolvimento de jogos. Estou ansioso para continuar explorando novos projetos desafiadores no futuro.
+Este projeto foi uma experiência muito enriquecedora, proporcionando aprimoramento das habilidades em Java e no desenvolvimento de jogos. Estou ansioso para continuar explorando novos projetos desafiadores no futuro.
 
-## Contato
-
-Se você estiver interessado em saber mais sobre este projeto ou tiver alguma pergunta, fique à vontade para entrar em contato comigo.
-
-Obrigado por lerem!
-
-Atenciosamente.
